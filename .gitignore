@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 #ignore thumbnails created by windows
 Thumbs.db
 #Ignore files build by Visual Studio
@@ -28,11 +26,11 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
-=======
+
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
->>>>>>> 71cd652b8ba34f73a73aaa578c1740c7109583a4
+
